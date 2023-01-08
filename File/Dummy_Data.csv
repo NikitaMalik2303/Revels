@@ -1,0 +1,4 @@
+category,eventTitle,eventMode,eventDescription,isFlagshipEvent,isSportsEvent,isTeamEvent,minTeamSize,maxTeamSize,eventDateTime,eventVenue,registrationDeadline,max_capacity(optional),prizePool(optional),eventTags,eventhead_name,eventhead_email,eventhead_phone,ruleBook_link,isJudgedExternally,noOfCriteria,judgingCriteria
+cName2,eName1,Online,Lorem ipsum,TRUE,FALSE,FALSE,,,03/25/2023 13:00,ab 3,03/25/2023 13:00,150,10000,"['t1','t2','t3']",name,emaillll,99999999999,,TRUE,,
+cName1,eName2,Offline,Lorem ipsum 222,FALSE,FALSE,TRUE,2,8,03/25/2023 13:00,ab 3,03/25/2023 13:00,,10000,"['t1','t2','t3']",,,,,TRUE,3,"[""c1"", ""c2"",""c3""]"
+cName1,eName3,Online,Lorem ipsum,TRUE,FALSE,FALSE,,,03/25/2023 13:00,ab 3,03/25/2023 13:00,150,,"['t1','t2','t3']",name,emaillll,99999999999,,FALSE,3,"[""c1"", ""c2"",""c3""]"
